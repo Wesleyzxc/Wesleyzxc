@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wesleyzxc
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently working with Typescript & React
 - 📫 How to reach me: https://wesleyzxc.github.io/ReactPorty
 
 <!---
